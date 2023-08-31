@@ -1,4 +1,4 @@
-export const apiKey = '88bd22c05db13a23ba7d3a15fe4ad3b3';
+export const apiKey = 'PASTE YOUR API KEY HERE';
 
 
 // this data was used for the development of the app
