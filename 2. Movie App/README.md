@@ -1,4 +1,4 @@
-#STEPS FOR INSTALLATION
+# STEPS FOR INSTALLATION
 
 React Native Expo Application:
 1. npx create-expo-app --template
